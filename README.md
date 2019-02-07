@@ -6,10 +6,10 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
+* [repo](https://github.com/codefellows-seattle-javascript-401n7/lab-38/pull/1)
+* [travis](https://www.travis-ci.com/sgtbelly/lab-38)
 * [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [codesandbox](https://codesandbox.io/s/0178kxoo5l)
 
 ### Modules
 #### `modulename.js`

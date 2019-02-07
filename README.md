@@ -9,7 +9,7 @@
 * [repo](http://xyz.com)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [codesandbox](https://codesandbox.io/s/0178kxoo5l)
 
 ### Modules
 #### `modulename.js`

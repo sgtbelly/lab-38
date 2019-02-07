@@ -6,7 +6,7 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/codefellows-seattle-javascript-401n7/lab-38/pull/1)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com)
 * [codesandbox](https://codesandbox.io/s/0178kxoo5l)
